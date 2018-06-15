@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+*.xlsx
+.idea/workspace.xml
+venv/*
+
